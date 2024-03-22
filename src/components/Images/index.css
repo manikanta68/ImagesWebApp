@@ -1,0 +1,30 @@
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.inputBox {
+  margin: 10px;
+}
+
+.searchKeysContainer {
+  margin-top: 20px;
+}
+
+.searchKey {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.displayContainer {
+  margin-top: 20px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.eachListItem {
+  margin-bottom: 20px;
+}
